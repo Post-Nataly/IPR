@@ -1,0 +1,15 @@
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\bin\Debug\net6.0\checkup.exe
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\bin\Debug\net6.0\checkup.deps.json
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\bin\Debug\net6.0\checkup.runtimeconfig.json
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\bin\Debug\net6.0\checkup.dll
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\bin\Debug\net6.0\checkup.pdb
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.csproj.AssemblyReference.cache
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.GeneratedMSBuildEditorConfig.editorconfig
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.AssemblyInfoInputs.cache
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.AssemblyInfo.cs
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.csproj.CoreCompileInputs.cache
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.dll
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\refint\checkup.dll
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.pdb
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\checkup.genruntimeconfig.cache
+E:\Документы\Жена\Разработчик\Языки программирования\IPR\checkup\obj\Debug\net6.0\ref\checkup.dll
